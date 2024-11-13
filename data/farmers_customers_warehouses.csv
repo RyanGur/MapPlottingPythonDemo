@@ -1,0 +1,18 @@
+name,type,latitude,longitude,transaction_volume
+Farmer A,farmer,44.8578,-93.2050,200
+Farmer B,farmer,44.8937,-93.3601,150
+Farmer C,farmer,44.9451,-93.4810,180
+Farmer D,farmer,44.9212,-93.1675,220
+Farmer E,farmer,44.9104,-93.3440,140
+Farmer F,farmer,44.9830,-93.2720,160
+Homeless Shelter 1,homeless,44.9185,-93.3775,80
+Homeless Shelter 2,homeless,44.8909,-93.2344,60
+Homeless Shelter 3,homeless,44.9844,-93.2570,100
+Homeless Outreach 1,homeless,44.9756,-93.1266,90
+Homeless Outreach 2,homeless,44.9772,-93.3380,70
+Homeless Shelter 4,homeless,44.9490,-93.3540,110
+Warehouse 1,warehouse,44.9400,-93.2550,0
+Warehouse 2,warehouse,44.9750,-93.3650,0
+Warehouse 3,warehouse,44.9200,-93.1250,0
+Warehouse 4,warehouse,44.8800,-93.2950,0
+Warehouse 5,warehouse,44.9450,-93.1950,0
